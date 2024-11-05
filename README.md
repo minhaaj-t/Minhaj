@@ -2,7 +2,7 @@
 
 Welcome to **i_yam_three.live**! This is my personal portfolio website, showcasing my projects, skills, and experiences. Built with HTML, CSS, and JavaScript, this site serves as a digital business card and a space to share my work with the world.
 
-## Features
+## Features 
 
 - **Responsive Design**: Mobile-friendly layout that adapts to various screen sizes.
 - **Project Showcases**: Display of selected projects with descriptions and links.
